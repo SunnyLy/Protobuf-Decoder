@@ -162,12 +162,6 @@ python enhanced_protobuf_editor.py
 
 ## 更新日志
 
-### v2.0.0
-- 添加MitmProxy风格显示
-- 修复重复字段处理问题
-- 改进嵌套消息解析
-- 优化用户界面
-
 ### v1.0.0
 - 初始版本发布
 - 基础Protobuf解析和编辑功能
